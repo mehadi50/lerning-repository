@@ -1,0 +1,28 @@
+h3{
+    background-color: aquamarine;
+    background-size: contain;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 40px;
+}
+form{
+font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 200px;
+}
+.mehadi{
+
+background-color: cornsilk;
+border-radius:20px ;
+font-family: 'Courier New', Courier, monospace;
+}
+.rafi{
+    font-size: larger;
+    font-weight: 900;
+}
+#story{
+    text-align: center;
+    background-color: aliceblue;
+    background-image: url(../m.png.webp);
+    text-shadow:tomato;
+}
