@@ -26,3 +26,16 @@ font-family: 'Courier New', Courier, monospace;
     background-image: url(../m.png.webp);
     text-shadow:tomato;
 }
+h2{
+    background-color: bisque;
+
+    width:fit-content
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.audio{
+    background-color: tomato;
+    box-shadow: 20px;
+}
